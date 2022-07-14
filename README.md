@@ -1,4 +1,5 @@
 Projeto: Calculando IR
+
 Crie um programa que receba um valor e apresente o imposto a ser pago com base na tabela abaixo¹:
 
 Faixas de Valor($)	            Aliquota	Deduzir
@@ -11,10 +12,11 @@ Acima de 55.976,16	            0,275	    10.432,32
 O programa deve seguir algumas diretrizes:
 
 Estar dividido em 3 camadas principais:
+
 DOMAIN: camada responsável por conter:
-Classes que são apenas para conter dados (POCOs/DTOs)
-Enums
-Extensões
+- Classes que são apenas para conter dados (POCOs/DTOs)
+- Enums
+- Extensões
 Qualquer outro tipo de informação que seja comum a todas as camadas
 PRESENTATION: camada que representa o console app. Nesta camada poderemos ter:
 Uma interface que represente a lógica da "tela".
