@@ -7,6 +7,7 @@ De 22.847,77 a 33.919,80	      0,075	    1.713,58
 De R$ 33.919,81 a 45.012,60	    0,150	    4.257,57
 De R$ 45.012,61 a 55.976,16	    0,225	    7.633,51
 Acima de 55.976,16	            0,275	    10.432,32
+
 O programa deve seguir algumas diretrizes:
 
 Estar dividido em 3 camadas principais:
