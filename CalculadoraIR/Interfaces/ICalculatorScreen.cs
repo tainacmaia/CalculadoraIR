@@ -1,4 +1,4 @@
-﻿namespace CalculadoraIR.Interfaces
+﻿namespace CalculadoraIR.Presentation.Interfaces
 {
     public interface ICalculatorScreen
     {

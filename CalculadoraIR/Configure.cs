@@ -1,4 +1,4 @@
-﻿using CalculadoraIR.Interfaces;
+﻿using CalculadoraIR.Presentation.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace CalculadoraIR.Presentation

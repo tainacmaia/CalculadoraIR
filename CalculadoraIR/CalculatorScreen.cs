@@ -1,7 +1,7 @@
-﻿using CalculadoraIR.Interfaces;
+﻿using CalculadoraIR.Presentation.Interfaces;
 using CalculadoraIR.Services.Interfaces;
 
-namespace CalculadoraIR
+namespace CalculadoraIR.Presentation
 {
     public class CalculatorScreen : ICalculatorScreen
     {
