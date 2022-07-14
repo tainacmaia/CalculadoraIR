@@ -3,7 +3,7 @@ using CalculadoraIR.Presentation;
 using CalculadoraIR.Services;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace CalculadoraIR
+namespace CalculadoraIR.Presentation
 {
     class Program
     {
